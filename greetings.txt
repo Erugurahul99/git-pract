@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 hello devops worls
 learning git step by step
 git helps devops engineers collaborate easily.
 this code is added in the dev branch.
 this line is added by dev1 branch
-=======
 hello world
->>>>>>> dev2
 temporary changes by rahul
+hello world
+572908b ( new data entered in greetings of dev 2)
+this is rahul editing in  tha nano editor of git
