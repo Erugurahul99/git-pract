@@ -1,5 +1,17 @@
+
 hello devops worls
 learning git step by step
 git helps devops engineers collaborate easily.
 this code is added in the dev branch.
+<<<<<<< HEAD
 this is rahul /n she is sridevi
+=======
+ HEAD
+this line is added by dev1 branch
+
+hello world
+ dev2
+
+this is rahul /n she is sridevi
+ d594dd4 (now i commited after using reset soft command for editing)
+>>>>>>> temp-save
